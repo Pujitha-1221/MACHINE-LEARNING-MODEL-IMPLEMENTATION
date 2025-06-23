@@ -116,7 +116,7 @@ The confusion matrix visually shows correct vs incorrect predictions.
 *The model achieves high accuracy (~98%), showing its effectiveness even with a synthetic dataset.
 
 🧠Sample output:
-
+Accuracy: 1.0
 Classification Report:
 
                precision    recall  f1-score   support
@@ -125,12 +125,9 @@ Classification Report:
            1       1.00      1.00      1.00         1
 
     accuracy                           1.00         2
-    
-   macro avg       1.00      1.00      1.00         2
-   
+   macro avg       1.00      1.00      1.00         2 
 weighted avg       1.00      1.00      1.00         2
 
-Accuracy: 1.0
 
 ![Image](https://github.com/user-attachments/assets/a9ec4c91-d077-4f35-b79e-9b996b4fbc33)
 
