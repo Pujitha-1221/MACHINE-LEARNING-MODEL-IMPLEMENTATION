@@ -117,16 +117,17 @@ The confusion matrix visually shows correct vs incorrect predictions.
 
 🧠Sample output:
 Accuracy: 1.0
-Classification Report:
 
+Classification Report:
                precision    recall  f1-score   support
 
            0       1.00      1.00      1.00         1
            1       1.00      1.00      1.00         1
 
     accuracy                           1.00         2
-   macro avg       1.00      1.00      1.00         2 
+   macro avg       1.00      1.00      1.00         2
 weighted avg       1.00      1.00      1.00         2
+
 
 
 ![Image](https://github.com/user-attachments/assets/a9ec4c91-d077-4f35-b79e-9b996b4fbc33)
