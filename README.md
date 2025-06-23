@@ -119,6 +119,4 @@ The confusion matrix visually shows correct vs incorrect predictions.
 
 ![Image](https://github.com/user-attachments/assets/6aa919c6-38d8-482c-8da7-bd89e949b56f)
 
-![Image](https://github.com/user-attachments/assets/b0a12b81-7491-4b9c-9b7d-10598a03fb20)
-
 ![Image](https://github.com/user-attachments/assets/26fb05fe-aba1-40ea-9ed0-6c5f12e4840f)
