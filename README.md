@@ -116,6 +116,7 @@ The confusion matrix visually shows correct vs incorrect predictions.
 *The model achieves high accuracy (~98%), showing its effectiveness even with a synthetic dataset.
 
 🧠Sample output:
+
 Accuracy: 1.0
 
 Classification Report:
