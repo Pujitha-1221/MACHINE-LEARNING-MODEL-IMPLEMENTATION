@@ -1,9 +1,9 @@
 # 📧 Spam Email Detection using Scikit-learn
 
 This project is a demonstration of building a spam detection model using Python and machine learning with the help of Scikit-learn. The goal is to classify messages as either spam or ham (non-spam). We generate a synthetic dataset with 30,000 messages and train a model using the Naive Bayes algorithm.
-
+-----
 #🛠️ Tools & Libraries Used
-
+-----
 Python 3.10+
 pandas – for data manipulation
 scikit-learn (sklearn) – for ML preprocessing, model building, and evaluation
@@ -11,7 +11,7 @@ matplotlib – for plotting graphs
 seaborn – for heatmap (confusion matrix) visualization
 Jupyter Notebook – for interactive development
 #📂 Project Structure
-
+-----
 ├── spam_email_classifier.ipynb # Jupyter Notebook with the complete workflow
 
 ├── README.md # Project overview and documentation
