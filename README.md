@@ -119,13 +119,16 @@ The confusion matrix visually shows correct vs incorrect predictions.
 Accuracy: 1.0
 
 Classification Report:
+
                precision    recall  f1-score   support
 
            0       1.00      1.00      1.00         1
            1       1.00      1.00      1.00         1
 
     accuracy                           1.00         2
+    
    macro avg       1.00      1.00      1.00         2
+   
 weighted avg       1.00      1.00      1.00         2
 
 
