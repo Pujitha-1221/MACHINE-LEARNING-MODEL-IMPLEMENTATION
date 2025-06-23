@@ -3,7 +3,7 @@
 This project is a demonstration of building a spam detection model using Python and machine learning with the help of Scikit-learn. The goal is to classify messages as either spam or ham (non-spam). We generate a synthetic dataset with 30,000 messages and train a model using the Naive Bayes algorithm.
 -----
 #🛠️ Tools & Libraries Used
------
+
 Python 3.10+
 pandas – for data manipulation
 scikit-learn (sklearn) – for ML preprocessing, model building, and evaluation
